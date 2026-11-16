@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a full stack software developer from Colombia, passionate about building full-stack applications and learning about the universe of data science.
+I'm a Full Stack Software Developer based in Colombia, passionate about building modern web applications and exploring the world of Data Science.
 
 - 🔭 **Currently working on:** Full-stack applications and personal projects.
 - 🌱 **Currently learning:** React, Node.js, Express, Python and SQL.
