@@ -17,3 +17,17 @@ I'm a Full Stack Software Developer based in Colombia, passionate about building
 - 🌱 **Currently learning:** React, Node.js, Express, Python and SQL.
 - 🎯 **My goal:** Combine software engineering and data science to create useful, scalable solutions.
 - 🌍 **Languages:** Spanish, English, French and learning German.
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)
+
+### Backend Development
+![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark)
+
+### Data Science & Tools
+![Data and Tools](https://skillicons.dev/icons?i=python,git,github&theme=dark)
