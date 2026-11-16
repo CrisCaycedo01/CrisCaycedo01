@@ -1,7 +1,9 @@
 
 <div align="center">
 
-![Chris Caycedo | Full Stack & Data Science](./github-banner.png)
+  <img src="./github-banner-v2.png"
+       alt="Chris Caycedo | Full Stack Developer & Data Science Enthusiast"
+       width="100%" />
 
 </div>
 
