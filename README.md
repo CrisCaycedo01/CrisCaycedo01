@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <img src="./github-banner-v2.png"
+  <img src="./Chris%20Caycedo_%20Full%20Stack%20Vision.png"
        alt="Chris Caycedo | Full Stack Developer & Data Science Enthusiast"
        width="100%" />
 
