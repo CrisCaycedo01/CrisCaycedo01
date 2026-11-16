@@ -24,10 +24,10 @@ I'm a Full Stack Software Developer based in Colombia, passionate about building
 ## 🛠️ Tech Stack
 
 ### Frontend Development
-![Frontend](https://skillicons.dev/icons?i=html,css,js,react&theme=dark)
+![Frontend](https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark)
 
 ### Backend Development
 ![Backend](https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark)
 
 ### Data Science & Tools
-![Data and Tools](https://skillicons.dev/icons?i=python,git,github&theme=dark)
+<img src="https://skillicons.dev/icons?i=python,r,aws,git,github&theme=dark" alt="Python, R, AWS, Git and GitHub" /> <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/microsoft-excel/default.svg" width="48" height="48" alt="Microsoft Excel" />
